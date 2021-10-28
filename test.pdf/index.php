@@ -1,4 +1,4 @@
 <?
 Header( "HTTP/1.1 301 Moved Permanently" );
-Header( "Location: https://sites.google.com/umn.edu/tobeykass" );
+Header( "Location: https://tlkass.github.io/Kass_CV.pdf" );
 ?>
